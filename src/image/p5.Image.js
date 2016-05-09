@@ -488,7 +488,7 @@ p5.Image.prototype.mask = function(p5Image) {
  *
  * @method filter
  * @param {String} operation one of threshold, gray, invert, posterize and
- *                           opaque see Filters.js for docs on each available
+ *                           opaque see <a href="filter.js">Filters.js</a> for docs on each available
  *                           filter
  * @param {Number|undefined} value
  * @example
